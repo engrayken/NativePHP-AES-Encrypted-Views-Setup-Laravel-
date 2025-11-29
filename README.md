@@ -299,7 +299,8 @@ class ViewExtractor
 In **AppServiceProvider.php**, place this inside the `register()`  or `boot()` method in app/Provider/AppServiceProvider.php:
 add this there
 
-```    ViewExtractor::extract();
+```
+ViewExtractor::extract();
 ```
 
 
