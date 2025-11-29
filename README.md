@@ -118,7 +118,7 @@ php artisan views:encrypt
 2 Create a new secure directory inside your project:
 
 ```
-app/Service/ViewExtractor.php
+app/Services/ViewExtractor.php
 ```
 place this code there 
 
