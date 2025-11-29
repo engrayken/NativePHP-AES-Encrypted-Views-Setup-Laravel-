@@ -111,8 +111,7 @@ Example encryption command
 after above code run this in cmd to create a view.enc in resources/secure/views.enc
 
 ```
-php artisan
-views:encrypt
+php artisan views:encrypt
 ```
 
 
